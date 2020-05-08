@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "867590761440",
+    "firebase_url": "https://medicalapp-88d7f.firebaseio.com",
+    "project_id": "medicalapp-88d7f",
+    "storage_bucket": "medicalapp-88d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867590761440:android:743ea807a1268b84",
+        "android_client_info": {
+          "package_name": "com.example.omkar.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867590761440-osf6apj7cqk8it6poqs7a5gf8lf3tur9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omkar.navigationdrawer",
+            "certificate_hash": "7788ac7ea7caabaf99dfe2bde77d6de74ad69d8c"
+          }
+        },
+        {
+          "client_id": "867590761440-pu2vlaoh3h552bcqt56hns6f53qm22uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQydRkRh8yA_3trAb0y_N0LAEp8ELWJHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867590761440-pu2vlaoh3h552bcqt56hns6f53qm22uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
